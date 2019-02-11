@@ -6,4 +6,4 @@ var loadScript = function(url) {
     console.log('ele load time: ' + new Date().getTime());
   };
 };
-console.log('load.js');
+console.log('load.js: ' + new Date().getTime());

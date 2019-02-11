@@ -13,6 +13,8 @@ window.addEventListener('DOMContentLoaded', function() {
 });
 window.onload = function() {
   console.log('window load time: ' + new Date().getTime());
+  console.log('performance domLoading: ' + performance.timing.domLoading);
+  console.log('performance domInteractive: ', performance.timing.domInteractive);
 };
 loadScript('https://astyle.alicdn.com/??fdevlib/js/gallery/jquery/jquery-latest.js,fdevlib/js/lofty/port/lofty.js?_v=51400295140029.js');
 </script>
