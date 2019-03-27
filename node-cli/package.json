@@ -1,0 +1,10 @@
+{
+  "name": "node-cli-demo",
+  "version": "1.0.0",
+  "bin": {
+    "ncd": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
