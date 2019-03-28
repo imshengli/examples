@@ -1,0 +1,17 @@
+{
+  "name": "base64-encode-string",
+  "version": "1.0.0",
+  "description": "Write package for browser and node DEMO",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "build:prod": "rollup -c rollup.confi.prod.js",
+    "build:iife": "rollup -c rollup.config.iife.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangshengli@Imshengli.com",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^1.7.3"
+  }
+}
