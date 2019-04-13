@@ -1,4 +1,5 @@
 const path = require('path');
+const TestPlugin = require('./test-plugin');
 
 module.exports = {
   entry: {
@@ -7,17 +8,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname + '/dist/'),
   },
-  module: {
-    rules: [
-      {
-        test: /\.js$/,
-        use:  {
-          loader: 'babel-loader',
-          query: {
-            presets: ['@babel/preset-env'],
-          }
-        },
-      },
-    ],
-  },
+  plugins:[
+    new TestPlugin(),
+  ],
 };

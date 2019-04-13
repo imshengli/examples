@@ -11,6 +11,15 @@
       "program": "${workspaceFolder}/debug-webpack/debug.js"
     },
     {
+      "type": "node",
+      "request": "launch",
+      "name": "Webpack debug",
+      "program": "${workspaceFolder}/debug-webpack/node_modules/webpack-cli/bin/cli",
+      "args": [
+        "--config", "${workspaceFolder}/debug-webpack/webpack.config.js"
+      ]
+    },
+    {
       "type": "java",
       "name": "CodeLens (Launch) - HelloWorld",
       "request": "launch",
