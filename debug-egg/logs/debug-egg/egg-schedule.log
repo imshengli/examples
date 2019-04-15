@@ -1,0 +1,158 @@
+2019-04-13 19:43:28,256 INFO 89508 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 15391747ms at 2019-04-14 00:00:00.002
+2019-04-13 19:43:28,256 INFO 89508 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 15392744ms at 2019-04-14 00:00:01.000
+2019-04-13 19:43:28,124 INFO 89509 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 19:43:28,124 INFO 89509 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:38:40,836 INFO 5673 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48079166ms at 2019-04-15 00:00:00.002
+2019-04-14 10:38:40,836 INFO 5673 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48080164ms at 2019-04-15 00:00:01.000
+2019-04-14 10:38:40,706 INFO 5674 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:38:40,706 INFO 5674 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:39:40,270 INFO 5749 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48019732ms at 2019-04-15 00:00:00.002
+2019-04-14 10:39:40,270 INFO 5749 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48020730ms at 2019-04-15 00:00:01.000
+2019-04-14 10:39:40,177 INFO 5750 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:39:40,178 INFO 5750 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:47:55,801 INFO 6382 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47524201ms at 2019-04-15 00:00:00.002
+2019-04-14 10:47:55,802 INFO 6382 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47525199ms at 2019-04-15 00:00:01.001
+2019-04-14 10:47:55,698 INFO 6384 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:47:55,698 INFO 6384 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:49:41,028 INFO 6527 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47418974ms at 2019-04-15 00:00:00.002
+2019-04-14 10:49:41,029 INFO 6527 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47419971ms at 2019-04-15 00:00:01.000
+2019-04-14 10:49:40,935 INFO 6528 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:49:40,935 INFO 6528 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:49:59,186 INFO 6559 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:49:59,186 INFO 6559 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:12,558 INFO 6570 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:12,558 INFO 6570 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:13,207 INFO 6571 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:13,207 INFO 6571 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:19,611 INFO 6592 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47380391ms at 2019-04-15 00:00:00.002
+2019-04-14 10:50:19,612 INFO 6592 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47381389ms at 2019-04-15 00:00:01.001
+2019-04-14 10:50:19,512 INFO 6593 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:19,513 INFO 6593 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:42,496 INFO 6618 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:42,496 INFO 6618 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:43,139 INFO 6619 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:43,139 INFO 6619 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:47,165 INFO 6639 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47352837ms at 2019-04-15 00:00:00.002
+2019-04-14 10:50:47,165 INFO 6639 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47353835ms at 2019-04-15 00:00:01.000
+2019-04-14 10:50:47,072 INFO 6640 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:47,072 INFO 6640 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:55,579 INFO 6650 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:55,579 INFO 6650 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:50:56,268 INFO 6651 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:50:56,268 INFO 6651 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:51:04,174 INFO 6673 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:51:04,174 INFO 6673 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:51:04,816 INFO 6674 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:51:04,816 INFO 6674 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:51:09,508 INFO 6694 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47330494ms at 2019-04-15 00:00:00.002
+2019-04-14 10:51:09,508 INFO 6694 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47331492ms at 2019-04-15 00:00:01.000
+2019-04-14 10:51:09,402 INFO 6695 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:51:09,402 INFO 6695 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:51:36,285 INFO 7106 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47303717ms at 2019-04-15 00:00:00.002
+2019-04-14 10:51:36,285 INFO 7106 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47304715ms at 2019-04-15 00:00:01.000
+2019-04-14 10:51:36,189 INFO 7107 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:51:36,189 INFO 7107 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:52:21,075 INFO 7494 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47258927ms at 2019-04-15 00:00:00.002
+2019-04-14 10:52:21,076 INFO 7494 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47259925ms at 2019-04-15 00:00:01.001
+2019-04-14 10:52:20,978 INFO 7495 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:52:20,978 INFO 7495 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:58:33,783 INFO 7810 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 10:58:33,783 INFO 7810 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 10:58:33,878 INFO 7806 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46886124ms at 2019-04-15 00:00:00.002
+2019-04-14 10:58:33,879 INFO 7806 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46887122ms at 2019-04-15 00:00:01.001
+2019-04-14 11:03:10,597 INFO 8509 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:03:10,597 INFO 8509 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:03:10,731 INFO 8505 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46609271ms at 2019-04-15 00:00:00.002
+2019-04-14 11:03:10,732 INFO 8505 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46610269ms at 2019-04-15 00:00:01.001
+2019-04-14 11:06:04,256 INFO 9410 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46435746ms at 2019-04-15 00:00:00.002
+2019-04-14 11:06:04,257 INFO 9410 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46436744ms at 2019-04-15 00:00:01.001
+2019-04-14 11:06:04,154 INFO 9413 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:06:04,154 INFO 9413 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:07:24,011 INFO 9541 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46355992ms at 2019-04-15 00:00:00.003
+2019-04-14 11:07:24,011 INFO 9541 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46356989ms at 2019-04-15 00:00:01.000
+2019-04-14 11:07:23,913 INFO 9544 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:07:23,913 INFO 9544 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:09:17,921 INFO 9688 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46242081ms at 2019-04-15 00:00:00.002
+2019-04-14 11:09:17,922 INFO 9688 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46243079ms at 2019-04-15 00:00:01.001
+2019-04-14 11:09:17,820 INFO 9691 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:09:17,820 INFO 9691 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:19:28,192 INFO 10416 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45631810ms at 2019-04-15 00:00:00.002
+2019-04-14 11:19:28,193 INFO 10416 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45632808ms at 2019-04-15 00:00:01.001
+2019-04-14 11:19:28,093 INFO 10420 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:19:28,093 INFO 10420 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:25:16,106 INFO 10992 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:25:16,106 INFO 10992 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:25:16,220 INFO 10989 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45283782ms at 2019-04-15 00:00:00.002
+2019-04-14 11:25:16,220 INFO 10989 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45284780ms at 2019-04-15 00:00:01.000
+2019-04-14 11:26:19,416 INFO 11121 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45220586ms at 2019-04-15 00:00:00.002
+2019-04-14 11:26:19,417 INFO 11121 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45221584ms at 2019-04-15 00:00:01.001
+2019-04-14 11:26:19,319 INFO 11125 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:26:19,319 INFO 11125 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:28:42,187 INFO 11274 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:28:42,188 INFO 11274 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:28:42,288 INFO 11271 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45077714ms at 2019-04-15 00:00:00.002
+2019-04-14 11:28:42,289 INFO 11271 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45078712ms at 2019-04-15 00:00:01.001
+2019-04-14 11:28:57,321 INFO 11331 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45062681ms at 2019-04-15 00:00:00.002
+2019-04-14 11:28:57,322 INFO 11331 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45063678ms at 2019-04-15 00:00:01.000
+2019-04-14 11:28:57,220 INFO 11332 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:28:57,220 INFO 11332 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:34:30,226 INFO 16886 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:34:30,226 INFO 16886 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:34:30,478 INFO 16884 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44729528ms at 2019-04-15 00:00:00.006
+2019-04-14 11:34:30,479 INFO 16884 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44730521ms at 2019-04-15 00:00:01.000
+2019-04-14 11:34:46,367 INFO 16941 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:34:46,367 INFO 16941 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:34:46,591 INFO 16938 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44713413ms at 2019-04-15 00:00:00.004
+2019-04-14 11:34:46,591 INFO 16938 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44714409ms at 2019-04-15 00:00:01.000
+2019-04-14 11:35:08,150 INFO 17015 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44691854ms at 2019-04-15 00:00:00.004
+2019-04-14 11:35:08,151 INFO 17015 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44692849ms at 2019-04-15 00:00:01.000
+2019-04-14 11:35:08,047 INFO 17018 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:35:08,047 INFO 17018 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:35:32,771 INFO 18112 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44667232ms at 2019-04-15 00:00:00.002
+2019-04-14 11:35:32,771 INFO 18112 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44668229ms at 2019-04-15 00:00:01.000
+2019-04-14 11:35:32,666 INFO 18115 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:35:32,666 INFO 18115 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:38:44,153 INFO 18261 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44475850ms at 2019-04-15 00:00:00.003
+2019-04-14 11:38:44,154 INFO 18261 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44476847ms at 2019-04-15 00:00:01.001
+2019-04-14 11:38:44,075 INFO 18262 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:38:44,075 INFO 18262 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:52:45,195 INFO 19033 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43634807ms at 2019-04-15 00:00:00.002
+2019-04-14 11:52:45,196 INFO 19033 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43635804ms at 2019-04-15 00:00:01.000
+2019-04-14 11:52:45,091 INFO 19034 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:52:45,091 INFO 19034 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:54:17,320 INFO 19109 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43542682ms at 2019-04-15 00:00:00.002
+2019-04-14 11:54:17,321 INFO 19109 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43543680ms at 2019-04-15 00:00:01.001
+2019-04-14 11:54:17,227 INFO 19110 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:54:17,227 INFO 19110 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 11:56:01,553 INFO 19181 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43438449ms at 2019-04-15 00:00:00.002
+2019-04-14 11:56:01,554 INFO 19181 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43439446ms at 2019-04-15 00:00:01.000
+2019-04-14 11:56:01,454 INFO 19184 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 11:56:01,454 INFO 19184 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:01:20,057 INFO 19743 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43119946ms at 2019-04-15 00:00:00.002
+2019-04-14 12:01:20,057 INFO 19743 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43120943ms at 2019-04-15 00:00:01.000
+2019-04-14 12:01:19,959 INFO 19744 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 12:01:19,959 INFO 19744 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:01:45,220 INFO 20109 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43094782ms at 2019-04-15 00:00:00.002
+2019-04-14 12:01:45,221 INFO 20109 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43095780ms at 2019-04-15 00:00:01.001
+2019-04-14 12:01:45,121 INFO 20110 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 12:01:45,121 INFO 20110 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:10:53,534 INFO 20496 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42546468ms at 2019-04-15 00:00:00.002
+2019-04-14 12:10:53,535 INFO 20496 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42547466ms at 2019-04-15 00:00:01.001
+2019-04-14 12:10:53,427 INFO 20496 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 12:10:53,427 INFO 20496 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:11:14,976 INFO 20619 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42525027ms at 2019-04-15 00:00:00.003
+2019-04-14 12:11:14,977 INFO 20619 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42526023ms at 2019-04-15 00:00:01.000
+2019-04-14 12:11:14,919 INFO 20619 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 12:11:14,919 INFO 20619 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:14:04,378 INFO 20678 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 12:14:04,378 INFO 20678 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:14:26,742 INFO 20678 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42333262ms at 2019-04-15 00:00:00.004
+2019-04-14 12:14:26,743 INFO 20678 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42334258ms at 2019-04-15 00:00:01.001
+2019-04-14 12:17:10,575 INFO 20821 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 12:17:10,575 INFO 20821 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:17:10,688 INFO 20821 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42169314ms at 2019-04-15 00:00:00.002
+2019-04-14 12:17:10,689 INFO 20821 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42170312ms at 2019-04-15 00:00:01.001
+2019-04-14 12:19:17,653 INFO 20907 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-14 12:19:17,653 INFO 20907 [egg-schedule]: register schedule /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 12:19:18,542 INFO 20907 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42041460ms at 2019-04-15 00:00:00.002
+2019-04-14 12:19:18,543 INFO 20907 [Timer] /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42042458ms at 2019-04-15 00:00:01.001

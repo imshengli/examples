@@ -20,6 +20,33 @@
       ]
     },
     {
+      "type": "node",
+      "request": "launch",
+      "name": "Koa Router debug",
+      "program": "${workspaceFolder}/debug-koa-router/index.js"
+    },
+    {
+      "name": "Launch Egg",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceRoot}/debug-egg/",
+      "runtimeExecutable": "npm",
+      "windows": { "runtimeExecutable": "npm.cmd" },
+      "runtimeArgs": [ "run", "dev" ],
+      "console": "integratedTerminal",
+      "protocol": "auto",
+      "restart": true,
+      "port": 9999
+    },
+    {
+      "name": "remote",
+      "type": "node",
+      "request": "launch",
+      "protocol": "auto",
+      "port": 9229,
+      "address": "localhost"
+    },
+    {
       "type": "java",
       "name": "CodeLens (Launch) - HelloWorld",
       "request": "launch",

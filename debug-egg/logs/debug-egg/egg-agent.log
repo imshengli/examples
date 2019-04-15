@@ -1,0 +1,454 @@
+2019-04-13 19:43:27,302 INFO 89508 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-13 19:43:27,440 INFO 89508 [egg:core] dump config after load, 4ms
+2019-04-13 19:43:27,485 INFO 89508 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-13 19:43:27,485 INFO 89508 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-13 19:43:27,485 INFO 89508 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-13 19:43:27,486 INFO 89508 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-13 19:43:27,486 INFO 89508 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-13 19:43:27,486 INFO 89508 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-13 19:43:27,486 INFO 89508 [egg-watcher:agent] watcher start success
+2019-04-13 19:43:27,508 INFO 89508 [egg:core] dump config after ready, 3ms
+2019-04-13 19:43:28,224 INFO 89508 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/shengli/shengli/study/examples/debug-egg/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361147057,"size":64,"blocks":0,"atimeMs":1555155808212.9548,"mtimeMs":1555155808212.9548,"ctimeMs":1555155808212.9548,"birthtimeMs":1555155808212.9548,"atime":"2019-04-13T11:43:28.213Z","mtime":"2019-04-13T11:43:28.213Z","ctime":"2019-04-13T11:43:28.213Z","birthtime":"2019-04-13T11:43:28.213Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-04-14 10:38:39,908 INFO 5673 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:38:40,050 INFO 5673 [egg:core] dump config after load, 5ms
+2019-04-14 10:38:40,100 INFO 5673 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:38:40,100 INFO 5673 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:38:40,100 INFO 5673 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:38:40,100 INFO 5673 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:38:40,101 INFO 5673 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:38:40,101 INFO 5673 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:38:40,101 INFO 5673 [egg-watcher:agent] watcher start success
+2019-04-14 10:38:40,125 INFO 5673 [egg:core] dump config after ready, 3ms
+2019-04-14 10:39:39,476 INFO 5749 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:39:39,568 INFO 5749 [egg:core] dump config after load, 5ms
+2019-04-14 10:39:39,604 INFO 5749 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:39:39,604 INFO 5749 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:39:39,604 INFO 5749 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:39:39,604 INFO 5749 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:39:39,604 INFO 5749 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:39:39,604 INFO 5749 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:39:39,604 INFO 5749 [egg-watcher:agent] watcher start success
+2019-04-14 10:39:39,629 INFO 5749 [egg:core] dump config after ready, 3ms
+2019-04-14 10:47:54,923 INFO 6382 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:47:55,026 INFO 6382 [egg:core] dump config after load, 4ms
+2019-04-14 10:47:55,066 INFO 6382 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:47:55,066 INFO 6382 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:47:55,066 INFO 6382 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:47:55,066 INFO 6382 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:47:55,067 INFO 6382 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:47:55,067 INFO 6382 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:47:55,067 INFO 6382 [egg-watcher:agent] watcher start success
+2019-04-14 10:47:55,092 INFO 6382 [egg:core] dump config after ready, 3ms
+2019-04-14 10:49:40,223 INFO 6527 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:49:40,315 INFO 6527 [egg:core] dump config after load, 4ms
+2019-04-14 10:49:40,351 INFO 6527 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:49:40,351 INFO 6527 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:49:40,352 INFO 6527 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:49:40,352 INFO 6527 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:49:40,352 INFO 6527 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:49:40,352 INFO 6527 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:49:40,352 INFO 6527 [egg-watcher:agent] watcher start success
+2019-04-14 10:49:40,378 INFO 6527 [egg:core] dump config after ready, 3ms
+2019-04-14 10:49:58,556 WARN 6527 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js rename
+2019-04-14 10:49:58,346 INFO 6527 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":0,"blocks":0,"atimeMs":1555210198344.1538,"mtimeMs":1555210198282.8223,"ctimeMs":1555210198282.8223,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:49:58.344Z","mtime":"2019-04-14T02:49:58.283Z","ctime":"2019-04-14T02:49:58.283Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:11,977 WARN 6527 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js rename
+2019-04-14 10:50:11,724 INFO 6527 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":21,"blocks":8,"atimeMs":1555210211712.8826,"mtimeMs":1555210211713.2783,"ctimeMs":1555210211713.2783,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:11.713Z","mtime":"2019-04-14T02:50:11.713Z","ctime":"2019-04-14T02:50:11.713Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:11,775 INFO 6527 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":21,"blocks":8,"atimeMs":1555210211712.8826,"mtimeMs":1555210211713.2783,"ctimeMs":1555210211713.2783,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:11.713Z","mtime":"2019-04-14T02:50:11.713Z","ctime":"2019-04-14T02:50:11.713Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:12,561 WARN 6527 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js rename
+2019-04-14 10:50:12,306 INFO 6527 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":21,"blocks":8,"atimeMs":1555210212295.6663,"mtimeMs":1555210212295.9966,"ctimeMs":1555210212295.9966,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:12.296Z","mtime":"2019-04-14T02:50:12.296Z","ctime":"2019-04-14T02:50:12.296Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:12,358 INFO 6527 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":21,"blocks":8,"atimeMs":1555210212295.6663,"mtimeMs":1555210212295.9966,"ctimeMs":1555210212295.9966,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:12.296Z","mtime":"2019-04-14T02:50:12.296Z","ctime":"2019-04-14T02:50:12.296Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:18,771 INFO 6592 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:50:18,867 INFO 6592 [egg:core] dump config after load, 4ms
+2019-04-14 10:50:18,903 INFO 6592 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:50:18,903 INFO 6592 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:50:18,904 INFO 6592 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:50:18,904 INFO 6592 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:50:18,904 INFO 6592 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:50:18,904 INFO 6592 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:50:18,904 INFO 6592 [egg-watcher:agent] watcher start success
+2019-04-14 10:50:18,929 INFO 6592 [egg:core] dump config after ready, 3ms
+2019-04-14 10:50:41,717 INFO 6592 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":34,"blocks":8,"atimeMs":1555210241652.978,"mtimeMs":1555210241653.4614,"ctimeMs":1555210241653.4614,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:41.653Z","mtime":"2019-04-14T02:50:41.653Z","ctime":"2019-04-14T02:50:41.653Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:41,924 WARN 6592 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js change
+2019-04-14 10:50:42,349 WARN 6592 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js change
+2019-04-14 10:50:42,094 INFO 6592 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":34,"blocks":8,"atimeMs":1555210242083.458,"mtimeMs":1555210242083.837,"ctimeMs":1555210242083.837,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:42.083Z","mtime":"2019-04-14T02:50:42.084Z","ctime":"2019-04-14T02:50:42.084Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:42,145 INFO 6592 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":34,"blocks":8,"atimeMs":1555210242083.458,"mtimeMs":1555210242083.837,"ctimeMs":1555210242083.837,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:42.083Z","mtime":"2019-04-14T02:50:42.084Z","ctime":"2019-04-14T02:50:42.084Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:46,355 INFO 6639 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:50:46,449 INFO 6639 [egg:core] dump config after load, 4ms
+2019-04-14 10:50:46,484 INFO 6639 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:50:46,484 INFO 6639 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:50:46,485 INFO 6639 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:50:46,485 INFO 6639 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:50:46,485 INFO 6639 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:50:46,485 INFO 6639 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:50:46,485 INFO 6639 [egg-watcher:agent] watcher start success
+2019-04-14 10:50:46,511 INFO 6639 [egg:core] dump config after ready, 4ms
+2019-04-14 10:50:54,975 WARN 6639 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js change
+2019-04-14 10:50:55,344 WARN 6639 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js change
+2019-04-14 10:50:54,721 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":34,"blocks":8,"atimeMs":1555210254708.6643,"mtimeMs":1555210254709.0078,"ctimeMs":1555210254709.0078,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:54.709Z","mtime":"2019-04-14T02:50:54.709Z","ctime":"2019-04-14T02:50:54.709Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:54,769 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":34,"blocks":8,"atimeMs":1555210254708.6643,"mtimeMs":1555210254709.0078,"ctimeMs":1555210254709.0078,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:54.709Z","mtime":"2019-04-14T02:50:54.709Z","ctime":"2019-04-14T02:50:54.709Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:55,089 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":34,"blocks":8,"atimeMs":1555210255078.705,"mtimeMs":1555210255079.1099,"ctimeMs":1555210255079.1099,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:55.079Z","mtime":"2019-04-14T02:50:55.079Z","ctime":"2019-04-14T02:50:55.079Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:50:55,140 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":34,"blocks":8,"atimeMs":1555210255078.705,"mtimeMs":1555210255079.1099,"ctimeMs":1555210255079.1099,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:50:55.079Z","mtime":"2019-04-14T02:50:55.079Z","ctime":"2019-04-14T02:50:55.079Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:51:03,352 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":43,"blocks":8,"atimeMs":1555210263340.0437,"mtimeMs":1555210263340.501,"ctimeMs":1555210263340.501,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:51:03.340Z","mtime":"2019-04-14T02:51:03.341Z","ctime":"2019-04-14T02:51:03.341Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:51:03,605 WARN 6639 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js change
+2019-04-14 10:51:03,981 WARN 6639 [agent:development] reload worker because /Users/shengli/shengli/study/examples/debug-egg/config/config.default.js change
+2019-04-14 10:51:03,403 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":43,"blocks":8,"atimeMs":1555210263340.0437,"mtimeMs":1555210263340.501,"ctimeMs":1555210263340.501,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:51:03.340Z","mtime":"2019-04-14T02:51:03.341Z","ctime":"2019-04-14T02:51:03.341Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:51:03,725 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":43,"blocks":8,"atimeMs":1555210263714.91,"mtimeMs":1555210263715.219,"ctimeMs":1555210263715.219,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:51:03.715Z","mtime":"2019-04-14T02:51:03.715Z","ctime":"2019-04-14T02:51:03.715Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:51:03,776 INFO 6639 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/shengli/shengli/study/examples/debug-egg/config/config.default.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4361255879,"size":43,"blocks":8,"atimeMs":1555210263714.91,"mtimeMs":1555210263715.219,"ctimeMs":1555210263715.219,"birthtimeMs":1555210198282.8223,"atime":"2019-04-14T02:51:03.715Z","mtime":"2019-04-14T02:51:03.715Z","ctime":"2019-04-14T02:51:03.715Z","birthtime":"2019-04-14T02:49:58.283Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-04-14 10:51:08,571 INFO 6694 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:51:08,668 INFO 6694 [egg:core] dump config after load, 5ms
+2019-04-14 10:51:08,704 INFO 6694 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:51:08,704 INFO 6694 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:51:08,704 INFO 6694 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:51:08,704 INFO 6694 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:51:08,704 INFO 6694 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:51:08,704 INFO 6694 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:51:08,705 INFO 6694 [egg-watcher:agent] watcher start success
+2019-04-14 10:51:08,731 INFO 6694 [egg:core] dump config after ready, 3ms
+2019-04-14 10:51:35,438 INFO 7106 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:51:35,536 INFO 7106 [egg:core] dump config after load, 4ms
+2019-04-14 10:51:35,575 INFO 7106 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:51:35,575 INFO 7106 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:51:35,575 INFO 7106 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:51:35,575 INFO 7106 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:51:35,575 INFO 7106 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:51:35,575 INFO 7106 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:51:35,576 INFO 7106 [egg-watcher:agent] watcher start success
+2019-04-14 10:51:35,602 INFO 7106 [egg:core] dump config after ready, 3ms
+2019-04-14 10:52:20,215 INFO 7494 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:52:20,317 INFO 7494 [egg:core] dump config after load, 5ms
+2019-04-14 10:52:20,357 INFO 7494 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:52:20,357 INFO 7494 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:52:20,358 INFO 7494 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:52:20,358 INFO 7494 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:52:20,358 INFO 7494 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:52:20,358 INFO 7494 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:52:20,358 INFO 7494 [egg-watcher:agent] watcher start success
+2019-04-14 10:52:20,384 INFO 7494 [egg:core] dump config after ready, 4ms
+2019-04-14 10:58:32,832 INFO 7806 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 10:58:32,944 INFO 7806 [egg:core] dump config after load, 7ms
+2019-04-14 10:58:32,993 INFO 7806 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 10:58:32,993 INFO 7806 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 10:58:32,994 INFO 7806 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 10:58:32,994 INFO 7806 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 10:58:32,994 INFO 7806 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 10:58:32,994 INFO 7806 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 10:58:32,994 INFO 7806 [egg-watcher:agent] watcher start success
+2019-04-14 10:58:33,028 INFO 7806 [egg:core] dump config after ready, 6ms
+2019-04-14 11:00:33,008 ERROR 7806 nodejs.ClusterClientNoResponseError: client no response in 79130ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 7806
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 11:03:09,658 INFO 8505 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:03:09,772 INFO 8505 [egg:core] dump config after load, 8ms
+2019-04-14 11:03:09,827 INFO 8505 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:03:09,827 INFO 8505 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:03:09,828 INFO 8505 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:03:09,828 INFO 8505 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:03:09,828 INFO 8505 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:03:09,828 INFO 8505 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:03:09,828 INFO 8505 [egg-watcher:agent] watcher start success
+2019-04-14 11:03:09,863 INFO 8505 [egg:core] dump config after ready, 4ms
+2019-04-14 11:06:03,315 INFO 9410 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:06:03,421 INFO 9410 [egg:core] dump config after load, 5ms
+2019-04-14 11:06:03,544 INFO 9410 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:06:03,544 INFO 9410 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:06:03,544 INFO 9410 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:06:03,544 INFO 9410 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:06:03,544 INFO 9410 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:06:03,544 INFO 9410 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:06:03,545 INFO 9410 [egg-watcher:agent] watcher start success
+2019-04-14 11:06:03,565 INFO 9410 [egg:core] dump config after ready, 3ms
+2019-04-14 11:07:23,068 INFO 9541 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:07:23,176 INFO 9541 [egg:core] dump config after load, 4ms
+2019-04-14 11:07:23,221 INFO 9541 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:07:23,221 INFO 9541 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:07:23,221 INFO 9541 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:07:23,221 INFO 9541 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:07:23,221 INFO 9541 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:07:23,221 INFO 9541 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:07:23,222 INFO 9541 [egg-watcher:agent] watcher start success
+2019-04-14 11:07:23,265 INFO 9541 [egg:core] dump config after ready, 3ms
+2019-04-14 11:09:16,937 INFO 9688 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:09:17,130 INFO 9688 [egg:core] dump config after load, 5ms
+2019-04-14 11:09:17,173 INFO 9688 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:09:17,173 INFO 9688 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:09:17,174 INFO 9688 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:09:17,174 INFO 9688 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:09:17,174 INFO 9688 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:09:17,174 INFO 9688 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:09:17,174 INFO 9688 [egg-watcher:agent] watcher start success
+2019-04-14 11:09:17,196 INFO 9688 [egg:core] dump config after ready, 3ms
+2019-04-14 11:19:27,289 INFO 10416 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:19:27,396 INFO 10416 [egg:core] dump config after load, 4ms
+2019-04-14 11:19:27,448 INFO 10416 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:19:27,448 INFO 10416 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:19:27,448 INFO 10416 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:19:27,448 INFO 10416 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:19:27,448 INFO 10416 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:19:27,448 INFO 10416 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:19:27,449 INFO 10416 [egg-watcher:agent] watcher start success
+2019-04-14 11:19:27,486 INFO 10416 [egg:core] dump config after ready, 3ms
+2019-04-14 11:25:15,158 INFO 10989 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:25:15,275 INFO 10989 [egg:core] dump config after load, 4ms
+2019-04-14 11:25:15,323 INFO 10989 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:25:15,323 INFO 10989 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:25:15,323 INFO 10989 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:25:15,324 INFO 10989 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:25:15,324 INFO 10989 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:25:15,324 INFO 10989 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:25:15,324 INFO 10989 [egg-watcher:agent] watcher start success
+2019-04-14 11:25:15,437 INFO 10989 [egg:core] dump config after ready, 4ms
+2019-04-14 11:26:18,535 INFO 11121 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:26:18,644 INFO 11121 [egg:core] dump config after load, 4ms
+2019-04-14 11:26:18,692 INFO 11121 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:26:18,692 INFO 11121 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:26:18,693 INFO 11121 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:26:18,693 INFO 11121 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:26:18,693 INFO 11121 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:26:18,693 INFO 11121 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:26:18,694 INFO 11121 [egg-watcher:agent] watcher start success
+2019-04-14 11:26:18,733 INFO 11121 [egg:core] dump config after ready, 3ms
+2019-04-14 11:28:41,248 INFO 11271 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:28:41,476 INFO 11271 [egg:core] dump config after load, 4ms
+2019-04-14 11:28:41,522 INFO 11271 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:28:41,522 INFO 11271 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:28:41,523 INFO 11271 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:28:41,523 INFO 11271 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:28:41,523 INFO 11271 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:28:41,523 INFO 11271 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:28:41,523 INFO 11271 [egg-watcher:agent] watcher start success
+2019-04-14 11:28:41,548 INFO 11271 [egg:core] dump config after ready, 4ms
+2019-04-14 11:28:56,475 INFO 11331 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:28:56,573 INFO 11331 [egg:core] dump config after load, 4ms
+2019-04-14 11:28:56,612 INFO 11331 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:28:56,612 INFO 11331 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:28:56,612 INFO 11331 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:28:56,612 INFO 11331 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:28:56,612 INFO 11331 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:28:56,612 INFO 11331 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:28:56,612 INFO 11331 [egg-watcher:agent] watcher start success
+2019-04-14 11:28:56,640 INFO 11331 [egg:core] dump config after ready, 3ms
+2019-04-14 11:34:29,441 INFO 16884 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:34:29,548 INFO 16884 [egg:core] dump config after load, 5ms
+2019-04-14 11:34:29,587 INFO 16884 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:34:29,587 INFO 16884 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:34:29,588 INFO 16884 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:34:29,588 INFO 16884 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:34:29,588 INFO 16884 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:34:29,588 INFO 16884 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:34:29,588 INFO 16884 [egg-watcher:agent] watcher start success
+2019-04-14 11:34:29,609 INFO 16884 [egg:core] dump config after ready, 2ms
+2019-04-14 11:34:45,491 INFO 16938 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:34:45,622 INFO 16938 [egg:core] dump config after load, 4ms
+2019-04-14 11:34:45,676 INFO 16938 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:34:45,676 INFO 16938 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:34:45,676 INFO 16938 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:34:45,676 INFO 16938 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:34:45,676 INFO 16938 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:34:45,676 INFO 16938 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:34:45,677 INFO 16938 [egg-watcher:agent] watcher start success
+2019-04-14 11:34:45,710 INFO 16938 [egg:core] dump config after ready, 3ms
+2019-04-14 11:35:07,194 INFO 17015 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:35:07,323 INFO 17015 [egg:core] dump config after load, 6ms
+2019-04-14 11:35:07,378 INFO 17015 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:35:07,378 INFO 17015 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:35:07,378 INFO 17015 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:35:07,378 INFO 17015 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:35:07,378 INFO 17015 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:35:07,378 INFO 17015 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:35:07,379 INFO 17015 [egg-watcher:agent] watcher start success
+2019-04-14 11:35:07,411 INFO 17015 [egg:core] dump config after ready, 3ms
+2019-04-14 11:35:31,830 INFO 18112 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:35:31,928 INFO 18112 [egg:core] dump config after load, 5ms
+2019-04-14 11:35:31,966 INFO 18112 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:35:31,967 INFO 18112 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:35:31,967 INFO 18112 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:35:31,967 INFO 18112 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:35:31,967 INFO 18112 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:35:31,967 INFO 18112 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:35:31,967 INFO 18112 [egg-watcher:agent] watcher start success
+2019-04-14 11:35:31,995 INFO 18112 [egg:core] dump config after ready, 2ms
+2019-04-14 11:38:43,365 INFO 18261 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:38:43,452 INFO 18261 [egg:core] dump config after load, 4ms
+2019-04-14 11:38:43,489 INFO 18261 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:38:43,489 INFO 18261 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:38:43,490 INFO 18261 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:38:43,490 INFO 18261 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:38:43,490 INFO 18261 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:38:43,490 INFO 18261 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:38:43,490 INFO 18261 [egg-watcher:agent] watcher start success
+2019-04-14 11:38:43,509 INFO 18261 [egg:core] dump config after ready, 3ms
+2019-04-14 11:52:44,308 INFO 19033 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:52:44,418 INFO 19033 [egg:core] dump config after load, 5ms
+2019-04-14 11:52:44,459 INFO 19033 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:52:44,459 INFO 19033 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:52:44,459 INFO 19033 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:52:44,460 INFO 19033 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:52:44,460 INFO 19033 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:52:44,460 INFO 19033 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:52:44,460 INFO 19033 [egg-watcher:agent] watcher start success
+2019-04-14 11:52:44,485 INFO 19033 [egg:core] dump config after ready, 4ms
+2019-04-14 11:54:16,524 INFO 19109 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:54:16,618 INFO 19109 [egg:core] dump config after load, 4ms
+2019-04-14 11:54:16,655 INFO 19109 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:54:16,655 INFO 19109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:54:16,655 INFO 19109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:54:16,655 INFO 19109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:54:16,655 INFO 19109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:54:16,655 INFO 19109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:54:16,655 INFO 19109 [egg-watcher:agent] watcher start success
+2019-04-14 11:54:16,680 INFO 19109 [egg:core] dump config after ready, 2ms
+2019-04-14 11:56:00,706 INFO 19181 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 11:56:00,811 INFO 19181 [egg:core] dump config after load, 6ms
+2019-04-14 11:56:00,849 INFO 19181 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 11:56:00,849 INFO 19181 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 11:56:00,850 INFO 19181 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 11:56:00,850 INFO 19181 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 11:56:00,850 INFO 19181 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 11:56:00,850 INFO 19181 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 11:56:00,850 INFO 19181 [egg-watcher:agent] watcher start success
+2019-04-14 11:56:00,877 INFO 19181 [egg:core] dump config after ready, 3ms
+2019-04-14 12:01:19,198 INFO 19743 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 12:01:19,299 INFO 19743 [egg:core] dump config after load, 4ms
+2019-04-14 12:01:19,338 INFO 19743 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 12:01:19,338 INFO 19743 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 12:01:19,338 INFO 19743 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 12:01:19,338 INFO 19743 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 12:01:19,338 INFO 19743 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 12:01:19,338 INFO 19743 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 12:01:19,339 INFO 19743 [egg-watcher:agent] watcher start success
+2019-04-14 12:01:19,363 INFO 19743 [egg:core] dump config after ready, 3ms
+2019-04-14 12:01:44,354 INFO 20109 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 12:01:44,457 INFO 20109 [egg:core] dump config after load, 5ms
+2019-04-14 12:01:44,497 INFO 20109 [egg-watcher] Start watching: ["/Users/shengli/shengli/study/examples/debug-egg/app","/Users/shengli/shengli/study/examples/debug-egg/config","/Users/shengli/shengli/study/examples/debug-egg/mocks","/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy","/Users/shengli/shengli/study/examples/debug-egg/app.js"]
+2019-04-14 12:01:44,497 INFO 20109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app"
+2019-04-14 12:01:44,497 INFO 20109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/config"
+2019-04-14 12:01:44,498 INFO 20109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks"
+2019-04-14 12:01:44,498 INFO 20109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/mocks_proxy"
+2019-04-14 12:01:44,498 INFO 20109 [egg-watcher] Start watching: "/Users/shengli/shengli/study/examples/debug-egg/app.js"
+2019-04-14 12:01:44,498 INFO 20109 [egg-watcher:agent] watcher start success
+2019-04-14 12:01:44,523 INFO 20109 [egg:core] dump config after ready, 3ms
+2019-04-14 12:09:51,984 INFO 20496 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 12:10:50,019 INFO 20496 [egg:core] dump config after load, 4s
+2019-04-14 12:10:53,310 INFO 20496 [egg-watcher:agent] watcher start success
+2019-04-14 12:10:53,344 INFO 20496 [egg:core] dump config after ready, 3ms
+2019-04-14 12:11:14,737 INFO 20619 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 12:11:14,841 INFO 20619 [egg:core] dump config after load, 4ms
+2019-04-14 12:11:14,867 INFO 20619 [egg-watcher:agent] watcher start success
+2019-04-14 12:11:14,874 INFO 20619 [egg:core] dump config after ready, 2ms
+2019-04-14 12:12:07,001 INFO 20678 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 12:12:07,136 INFO 20678 [egg:core] dump config after load, 4ms
+2019-04-14 12:13:10,476 INFO 20678 [egg-watcher:agent] watcher start success
+2019-04-14 12:13:10,505 INFO 20678 [egg:core] dump config after ready, 4ms
+2019-04-14 12:15:28,999 INFO 20821 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 12:15:29,127 INFO 20821 [egg:core] dump config after load, 3ms
+2019-04-14 12:15:29,163 INFO 20821 [egg-watcher:agent] watcher start success
+2019-04-14 12:15:29,188 INFO 20821 [egg:core] dump config after ready, 3ms
+2019-04-14 12:17:24,430 INFO 20907 [egg:logger] init all loggers with options: {"dir":"/Users/shengli/shengli/study/examples/debug-egg/logs/debug-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"debug-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-14 12:17:24,560 INFO 20907 [egg:core] dump config after load, 3ms
+2019-04-14 12:17:24,593 INFO 20907 [egg-watcher:agent] watcher start success
+2019-04-14 12:17:24,619 INFO 20907 [egg:core] dump config after ready, 2ms
+2019-04-14 19:22:40,413 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 1815837ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 21:23:51,111 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 3830866ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 21:35:50,520 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 699063ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 00:10:10,873 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 4159641ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 02:03:15,668 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 6784543ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 03:51:21,392 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 6485676ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 05:39:28,622 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 6487208ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 07:33:07,025 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 6818380ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 08:43:49,266 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 4202144ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 08:51:17,200 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 427304ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-15 08:56:26,841 ERROR 19743 nodejs.ClusterClientNoResponseError: client no response in 151549ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 19743
+hostname: ZhangShenglideMacBook-Pro.local
+

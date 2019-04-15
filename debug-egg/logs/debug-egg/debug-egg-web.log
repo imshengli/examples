@@ -1,0 +1,150 @@
+2019-04-14 10:48:06,632 ERROR 6384 [-/::1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6384
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:49:43,961 ERROR 6384 [-/::1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6384
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:49:46,843 ERROR 6528 [-/::1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6528
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:49:48,341 ERROR 6528 [-/::1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6528
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:50:14,253 ERROR 6571 [-/::1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6571
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:50:22,173 ERROR 6593 [-/::1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6593
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:50:48,689 ERROR 6640 [-/::1/-/5ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:260:37)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6640
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:50:49,776 ERROR 6640 [-/::1/-/0ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:260:37)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6640
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:50:50,122 ERROR 6640 [-/::1/-/0ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:260:37)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6640
+hostname: ZhangShenglideMacBook-Pro.local
+
+2019-04-14 10:50:50,392 ERROR 6640 [-/::1/-/1ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/lib/application.js:260:37)
+    at Object.get cookies [as cookies] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/shengli/shengli/study/examples/debug-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/shengli/shengli/study/examples/debug-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6640
+hostname: ZhangShenglideMacBook-Pro.local
+
