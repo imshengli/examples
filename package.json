@@ -1,5 +1,9 @@
 {
   "name": "examples",
   "version": "0.1.0",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "acorn": "^7.1.0",
+    "acorn-jsx": "^5.1.0"
+  }
 }
